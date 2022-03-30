@@ -35,6 +35,7 @@
 
 # 该项目
 .vscode/
+.DS_Store
 *.DSYM/
 *.DSYM
 **/[0-9]*
